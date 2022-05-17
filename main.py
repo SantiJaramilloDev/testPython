@@ -54,3 +54,5 @@ cliente1 = {
 
 #llamado a funcion con diccionario de prueba
 print(descuentos(cliente1))
+
+#Santiago
